@@ -1,7 +1,9 @@
 Grammar and Automata Project
+
 This project involves working with grammars and automata, providing tools to manipulate context-free grammars, visualize grammar transformations, and perform grammar-based calculations. It includes functionality to create and manipulate grammar tables, generate undetermined grammar sheets, and visualize grammar transformations using graphs.
 
 Project Overview
+
 The main components of the project include:
 
 GrammarRework.py: Contains functions for manipulating and working with grammars, including generating grammar tables, adding helper variables, and creating graph representations of grammars.
